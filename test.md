@@ -1,5 +1,7 @@
 - Todo 파일 생성
 - Todo 기능 추가 1
+- Todo 기능 추가 2
+- Todo 기능 추가 3
 - weather 기능 추가
 - calendar 기능 추가
 - timer 기능 추가
